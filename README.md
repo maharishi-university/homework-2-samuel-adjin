@@ -18,3 +18,8 @@
 * Internet Gateway
 * EC2 instance
 * Connections to EC2 using SSH
+
+
+
+011591350460
+samuel-adjin-618967
